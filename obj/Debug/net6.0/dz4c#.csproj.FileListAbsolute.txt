@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\домашние задания\dz4c#\bin\Debug\net6.0\dz4c#.exe
+C:\Users\USER\Desktop\домашние задания\dz4c#\bin\Debug\net6.0\dz4c#.deps.json
+C:\Users\USER\Desktop\домашние задания\dz4c#\bin\Debug\net6.0\dz4c#.runtimeconfig.json
+C:\Users\USER\Desktop\домашние задания\dz4c#\bin\Debug\net6.0\dz4c#.dll
+C:\Users\USER\Desktop\домашние задания\dz4c#\bin\Debug\net6.0\dz4c#.pdb
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.AssemblyInfo.cs
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.dll
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\refint\dz4c#.dll
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.pdb
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\dz4c#.genruntimeconfig.cache
+C:\Users\USER\Desktop\домашние задания\dz4c#\obj\Debug\net6.0\ref\dz4c#.dll
